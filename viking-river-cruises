@@ -1,0 +1,677 @@
+<urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
+	<url>
+		<loc>http://www.luxuryonly.com/promotion/viking-river-cruises.do</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/promotion/page_headers/cruise-lines/viking/hdr_vik_ii.jpg</image:loc>
+			<image:caption>Viking River Cruises</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=827</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_827_d_MSEsplanade_320.jpg</image:loc>
+			<image:caption>MS Esplanade</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=913</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_913_d_MSMayfair_320.jpg</image:loc>
+			<image:caption>MS Mayfair</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=828</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_828_d_MSVienna_320.jpg</image:loc>
+			<image:caption>MS Vienna</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=801</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_801_d_RVIndochina_320.jpg</image:loc>
+			<image:caption>RV Indochina</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=782</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_782_d_VikingAegir_320.jpg</image:loc>
+			<image:caption>Viking Aegir</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=873</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_873_d_VikingAkun_320.jpg</image:loc>
+			<image:caption>Viking Akun</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=866</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_866_d_VikingAlsvin_320.jpg</image:loc>
+			<image:caption>Viking Alsvin</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=901</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_901_d_VikingAstrild_320.jpg</image:loc>
+			<image:caption>Viking Astrild</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=825</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_825_d_Atla_320.jpg</image:loc>
+			<image:caption>Viking Atla</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=837</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_837_d_VikingBaldur_320.jpg</image:loc>
+			<image:caption>Viking Baldur</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=867</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_867_d_VikingBestla_320.jpg</image:loc>
+			<image:caption>Viking Bestla</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=902</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_902_d_VikingBeyla_320.jpg</image:loc>
+			<image:caption>Viking Beyla</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=814</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_814_d_Bragi_320.jpg</image:loc>
+			<image:caption>Viking Bragi</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=843</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_843_d_VikingBuri_320.jpg</image:loc>
+			<image:caption>Viking Buri</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=844</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_844_d_VikingDelling_320.jpg</image:loc>
+			<image:caption>Viking Delling</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=800</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_800_d_VikingDouro_320.jpg</image:loc>
+			<image:caption>Viking Douro</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=903</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_903_d_VikingEir_320.jpg</image:loc>
+			<image:caption>Viking Eir</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=868</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_868_d_Eistla_320.jpg</image:loc>
+			<image:caption>Viking Eistla</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=781</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_781_d_VikingEmbla_320.jpg</image:loc>
+			<image:caption>Viking Embla</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=736</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_736_d_Emerald_320.jpg</image:loc>
+			<image:caption>Viking Emerald</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=491</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_491_d_Europe_320.jpg</image:loc>
+			<image:caption>Viking Europe</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=682</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_682_d_Fontane_320.jpg</image:loc>
+			<image:caption>Viking Fontane</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=815</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_815_d_Forseti_320.jpg</image:loc>
+			<image:caption>Viking Forseti</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=771</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_771_d_Freya_320.jpg</image:loc>
+			<image:caption>Viking Freya</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=904</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_904_d_VikingGefjon_320.jpg</image:loc>
+			<image:caption>Viking Gefjon</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=845</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_845_d_VikingGullveig_320.jpg</image:loc>
+			<image:caption>Viking Gullveig</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=846</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_846_d_VikingHeimdal_320.jpg</image:loc>
+			<image:caption>Viking Heimdal</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=508</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_508_d_Surkov_320.jpg</image:loc>
+			<image:caption>Viking Helgi</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=695</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_695_d_Helvetia_320.jpg</image:loc>
+			<image:caption>Viking Helvetia</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=847</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_847_d_VikingHemming_320.jpg</image:loc>
+			<image:caption>Viking Hemming</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=848</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_848_d_VikingHermod_320.jpg</image:loc>
+			<image:caption>Viking Hermod</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=876</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_876_d_VikingHlin_320.jpg</image:loc>
+			<image:caption>Viking Hlin</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=849</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_849_d_VikingIdi_320.jpg</image:loc>
+			<image:caption>Viking Idi</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=772</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_772_d_Idun_320.jpg</image:loc>
+			<image:caption>Viking Idun</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=478</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_478_d_Pakhomov_320.jpg</image:loc>
+			<image:caption>Viking Ingvar</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=869</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_869_d_VikingIngvi_320.jpg</image:loc>
+			<image:caption>Viking Ingvi</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=826</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_826_d_Jarl_320.jpg</image:loc>
+			<image:caption>Viking Jarl</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=877</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_877_d_VikingKara_320.jpg</image:loc>
+			<image:caption>Viking Kara</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=850</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_850_d_VikingKvasir_320.jpg</image:loc>
+			<image:caption>Viking Kvasir</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=692</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_692_d_Legend_320.jpg</image:loc>
+			<image:caption>Viking Legend</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=851</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_851_d_VikingLif_320.jpg</image:loc>
+			<image:caption>Viking Lif</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=905</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_905_d_VikingLofn_320.jpg</image:loc>
+			<image:caption>Viking Lofn</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=680</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_680_d_Lomonosov_320.jpg</image:loc>
+			<image:caption>Viking Lomonosov</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=838</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_838_d_VikingMagni_320.jpg</image:loc>
+			<image:caption>Viking Magni</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=852</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_852_d_VikingMandalay_320.jpg</image:loc>
+			<image:caption>Viking Mandalay</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=906</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_906_d_VikingMani_320.jpg</image:loc>
+			<image:caption>Viking Mani</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=853</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_853_d_VikingMekong_320.jpg</image:loc>
+			<image:caption>Viking Mekong</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=907</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_907_d_VikingMimir_320.jpg</image:loc>
+			<image:caption>Viking Mimir</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=908</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_908_d_VikingModi_320.jpg</image:loc>
+			<image:caption>Viking Modi</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=483</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_483_d_Neptune_320.jpg</image:loc>
+			<image:caption>Viking Neptune</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=773</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_773_d_Njord_320.jpg</image:loc>
+			<image:caption>Viking Njord</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=915</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_915_d_VikingSky_320.jpg</image:loc>
+			<image:caption>Viking Ocean Sky</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=774</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_774_d_Odin_320.jpg</image:loc>
+			<image:caption>Viking Odin</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=892</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_892_d_VikingOrient_320.jpg</image:loc>
+			<image:caption>Viking Orient</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=746</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_746_d_Prestige_320.jpg</image:loc>
+			<image:caption>Viking Prestige</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=472</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_472_d_Pride_320.jpg</image:loc>
+			<image:caption>Viking Pride</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=816</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_816_d_Rhinda_320.jpg</image:loc>
+			<image:caption>Viking Rinda</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=471</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_471_d_Sky_320.jpg</image:loc>
+			<image:caption>Viking River Sky</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=721</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_721_d_Rurik_320.jpg</image:loc>
+			<image:caption>Viking Rurik</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=479</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_479_d_Schumann_320.jpg</image:loc>
+			<image:caption>Viking Schumann</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=914</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_914_d_VikingSea_320.jpg</image:loc>
+			<image:caption>Viking Sea</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=865</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_865_d_VikingSineus_320.jpg</image:loc>
+			<image:caption>Viking Sineus</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=806</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_806_d_Skadi_320.jpg</image:loc>
+			<image:caption>Viking Skadi</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=912</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_912_d_VikingSkirnir_320.jpg</image:loc>
+			<image:caption>Viking Skirnir</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=473</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_473_d_Spirit_320.jpg</image:loc>
+			<image:caption>Viking Spirit</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=872</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_872_d_VikingStar_320.jpg</image:loc>
+			<image:caption>Viking Star</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=507</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_507_d_Sun_320.jpg</image:loc>
+			<image:caption>Viking Sun</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=817</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_817_d_Tor_320.jpg</image:loc>
+			<image:caption>Viking Tor</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=854</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_854_d_VikingTorgil_320.jpg</image:loc>
+			<image:caption>Viking Torgil</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=474</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_474_d_Kirov_320.jpg</image:loc>
+			<image:caption>Viking Truvor</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=818</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_818_d_Var_320.jpg</image:loc>
+			<image:caption>Viking Var</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=909</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_909_d_VikingVe_320.jpg</image:loc>
+			<image:caption>Viking Ve</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=910</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_910_d_VikingVidar_320.jpg</image:loc>
+			<image:caption>Viking Vidar</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.cruisesonly.com/shipdetail.do?c=78&amp;v=911</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://www.cruisesonly.com/images/ship_ext/viking_78/78_911_d_VikingVili_320.jpg</image:loc>
+			<image:caption>Viking Vili</image:caption>
+		</image:image>
+	</url>
+</urlset>
